@@ -31,4 +31,3 @@ Me considero una persona:
 
 ---
 
-https://www.linkedin.com/in/jairo-israel-mu%C3%B1oz-mu%C3%B1oz/
