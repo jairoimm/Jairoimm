@@ -10,10 +10,16 @@ Me considero una persona:
 - Apasionada por el desarrollo y el diseño, sobre todo si tiene que ver con tecnología.
 
 ## 🛠️ Tecnologías y habilidades
+| Rank | Languages | Frameworks |
+|--------------|--------------|--------------|
+| 1      | Python     | Django      |
+| 2      | SQL      | Bootstrap      |
+| 3      | HTML      | Next.js      |
+| 4      | CSS      | Jquery      |
+| 5      | Javascript      | React  |
 
 - **Lenguaje principal:** Python 🐍  
 - **Framework favorito:** Django 🌱
-- **Frontend:** HTML5, CSS3, JavaScript ES6+, Responsive Design
 - **Bases de datos:** SQL, bases de datos relacionales (MySQL, PostgreSQL)
 - **Herramientas:** Git, GitHub, VS Code
 - **Aprendiendo siempre:** nuevas tecnologías web, buenas prácticas y herramientas de desarrollo
@@ -22,6 +28,10 @@ Me considero una persona:
 
 - **Full Stack Python Trainee** — Talento Digital (certificado)
 - **Ingeniería en Informática** — Instituto Profesional INACAP (en curso)
+Puedes revisar mis certificaciones en el siguiente enlace
+<a href="https://www.tuportafolio.com" target="_blank">
+  <img alt="Visita mi Portafolio" src="https://img.shields.io/badge/Portafolio-0077B5?style=flat&logo=react&logoColor=white" />
+</a>
 
 ## 🌱 Fun facts
 
