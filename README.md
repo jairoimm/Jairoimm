@@ -29,7 +29,7 @@ Me considero una persona:
 - **Full Stack Python Trainee** — Talento Digital (certificado)
 - **Ingeniería en Informática** — Instituto Profesional INACAP (en curso)
 
-#Puedes revisar mis certificaciones en el siguiente enlace: [Certificaciones](https://www.linkedin.com/in/jairoimm/details/certifications/)
+#Puedes revisar mis certificaciones en el siguiente enlace: [Certificaciones](https://www.linkedin.com/in/jairoimm/details/certifications/target="_blank")
 
 
 ## 🌱 Fun facts
