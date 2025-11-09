@@ -27,7 +27,7 @@ Me considero una persona:
 ## 🌐 Portafolio Digital
 
 <a href="https://jairoimm.github.io/Portafolio_digital/" target="_blank">
-  <img alt="Visita mi Portafolio" src="https://jairoimm.github.io/Portafolio_digital/" />
+  <img alt="Visita mi Portafolio" src="https://img.shields.io/badge/Ver_Portafolio-0077B5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ## 🎓 Formación & Certificaciones
