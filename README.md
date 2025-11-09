@@ -24,6 +24,12 @@ Me considero una persona:
 - **Herramientas:** Git, GitHub, VS Code
 - **Aprendiendo siempre:** nuevas tecnologías web, buenas prácticas y herramientas de desarrollo
 
+## 🌐 Portafolio Digital
+
+<a href="https://jairoimm.github.io/Portafolio_digital/" target="_blank">
+  <img alt="Visita mi Portafolio" src="https://jairoimm.github.io/Portafolio_digital/" />
+</a>
+
 ## 🎓 Formación & Certificaciones
 
 - **Full Stack Python Trainee** — Talento Digital (certificado)
